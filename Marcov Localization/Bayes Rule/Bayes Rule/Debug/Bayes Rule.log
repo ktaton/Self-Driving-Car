@@ -1,0 +1,8 @@
+﻿D:\Visual\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bayes Rule.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+G:\Self_driving_car\Marcov Localization\Bayes Rule\Bayes Rule\main.cpp(48,29): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Bayes Rule.vcxproj -> G:\Self_driving_car\Marcov Localization\Bayes Rule\Debug\Initalize Priors Function.exe
